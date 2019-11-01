@@ -1,6 +1,6 @@
 ### React1
 
-#### [Monday, tuesday and wednesday exercises](../monday-wednesday)
+#### [Monday, tuesday and wednesday exercises](./monday-wednesday)
 #### Thursday
 
 
